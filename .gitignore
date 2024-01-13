@@ -1,0 +1,4 @@
+.DS_Store
+.env
+certificates/docx/*.docx
+certificates/pdf/*.pdf
